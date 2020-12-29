@@ -185,5 +185,5 @@ C:221,12: Variable name "l" doesn't conform to snake_case naming style (invalid-
 C:222,16: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
 
 ------------------------------------------------------------------
-Your code has been rated at 2.07/10 (previous run: 5.98/10, -3.91)
+Your code has been rated at 2.07/10 
 

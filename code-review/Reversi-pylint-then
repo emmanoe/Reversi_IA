@@ -70,5 +70,5 @@ Reversi.py:226:12: C0103: Variable name "l" doesn't conform to snake_case naming
 Reversi.py:227:16: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
 
 ------------------------------------------------------------------
-Your code has been rated at 6.03/10 (previous run: 6.03/10, +0.00)
+Your code has been rated at 6.03/10 (previous run: 2.07/10, +0.00)
 
