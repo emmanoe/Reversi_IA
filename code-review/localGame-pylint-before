@@ -1,0 +1,25 @@
+************* Module localGame
+localGame.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+localGame.py:47:16: C0303: Trailing whitespace (trailing-whitespace)
+localGame.py:71:0: C0305: Trailing newlines (trailing-newlines)
+localGame.py:1:0: C0103: Module name "localGame" doesn't conform to snake_case naming style (invalid-name)
+localGame.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+localGame.py:12:16: W0212: Access to a protected member _BLACK of a client class (protected-access)
+localGame.py:15:16: W0212: Access to a protected member _WHITE of a client class (protected-access)
+localGame.py:19:0: C0103: Constant name "nextplayer" doesn't conform to UPPER_CASE naming style (invalid-name)
+localGame.py:20:0: C0103: Constant name "nextplayercolor" doesn't conform to UPPER_CASE naming style (invalid-name)
+localGame.py:20:18: W0212: Access to a protected member _BLACK of a client class (protected-access)
+localGame.py:21:0: C0103: Constant name "nbmoves" doesn't conform to UPPER_CASE naming style (invalid-name)
+localGame.py:34:4: C0103: Constant name "otherplayer" doesn't conform to UPPER_CASE naming style (invalid-name)
+localGame.py:35:4: C0103: Constant name "othercolor" doesn't conform to UPPER_CASE naming style (invalid-name)
+localGame.py:35:48: W0212: Access to a protected member _WHITE of a client class (protected-access)
+localGame.py:35:17: W0212: Access to a protected member _BLACK of a client class (protected-access)
+localGame.py:35:62: W0212: Access to a protected member _WHITE of a client class (protected-access)
+localGame.py:55:4: C0103: Constant name "nextplayer" doesn't conform to UPPER_CASE naming style (invalid-name)
+localGame.py:4:0: C0411: standard import "import time" should be placed before "import Reversi" (wrong-import-order)
+localGame.py:5:0: C0411: standard import "from io import StringIO" should be placed before "import Reversi" (wrong-import-order)
+localGame.py:6:0: C0411: standard import "import sys" should be placed before "import Reversi" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 6.67/10 (previous run: 0.83/10, +5.83)
+

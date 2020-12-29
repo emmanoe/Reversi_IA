@@ -1,0 +1,22 @@
+************* Module myPlayer
+myPlayer.py:26:0: C0325: Unnecessary parens after 'assert' keyword (superfluous-parens)
+myPlayer.py:29:20: C0303: Trailing whitespace (trailing-whitespace)
+myPlayer.py:32:0: C0325: Unnecessary parens after 'assert' keyword (superfluous-parens)
+myPlayer.py:47:0: C0305: Trailing newlines (trailing-newlines)
+myPlayer.py:1:0: C0103: Module name "myPlayer" doesn't conform to snake_case naming style (invalid-name)
+myPlayer.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+myPlayer.py:6:0: W0401: Wildcard import playerInterface (wildcard-import)
+myPlayer.py:8:0: C0103: Class name "myPlayer" doesn't conform to PascalCase naming style (invalid-name)
+myPlayer.py:8:0: C0115: Missing class docstring (missing-class-docstring)
+myPlayer.py:21:0: R1721: Unnecessary use of a comprehension (unnecessary-comprehension)
+myPlayer.py:25:9: C0103: Variable name "c" doesn't conform to snake_case naming style (invalid-name)
+myPlayer.py:25:11: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+myPlayer.py:25:13: C0103: Variable name "y" doesn't conform to snake_case naming style (invalid-name)
+myPlayer.py:40:4: W0221: Parameters differ from overridden 'endGame' method (arguments-differ)
+myPlayer.py:38:8: W0201: Attribute '_opponent' defined outside __init__ (attribute-defined-outside-init)
+myPlayer.py:3:0: W0611: Unused import time (unused-import)
+myPlayer.py:5:0: C0411: standard import "from random import randint" should be placed before "import Reversi" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 5.00/10 (previous run: 1.47/10, +3.53)
+

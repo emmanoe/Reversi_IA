@@ -1,0 +1,23 @@
+************* Module playerInterface
+playerInterface.py:30:0: C0305: Trailing newlines (trailing-newlines)
+playerInterface.py:1:0: C0103: Module name "playerInterface" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+playerInterface.py:1:0: C0115: Missing class docstring (missing-class-docstring)
+playerInterface.py:3:4: C0103: Method name "getPlayerName" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+playerInterface.py:3:4: R0201: Method could be a function (no-self-use)
+playerInterface.py:12:4: C0103: Method name "getPlayerMove" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:12:4: C0116: Missing function or method docstring (missing-function-docstring)
+playerInterface.py:12:4: R0201: Method could be a function (no-self-use)
+playerInterface.py:17:4: C0103: Method name "playOpponentMove" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:17:4: C0103: Argument name "x" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:17:4: C0103: Argument name "y" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:17:4: C0116: Missing function or method docstring (missing-function-docstring)
+playerInterface.py:22:4: C0103: Method name "newGame" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:22:4: C0116: Missing function or method docstring (missing-function-docstring)
+playerInterface.py:27:4: C0103: Method name "endGame" doesn't conform to snake_case naming style (invalid-name)
+playerInterface.py:27:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------
+Your code has been rated at -6.36/10
+
